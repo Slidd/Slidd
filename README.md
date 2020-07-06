@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 About
+  - Software Engineering student at Glasgow Caledonian University
+  - Software Engineering Intern at GE Digital
+  - Passionate about automation
+- 🌱 I’m currently learning
+   - Go
+   - Kubernetes
