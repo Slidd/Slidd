@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - 💬 About
   - Software Engineering student at Glasgow Caledonian University
-  - Software Engineering Intern at GE Digital
+  - Previous Software Engineering Intern at GE Digital focussing on DevOps
   - Passionate about automation
 - 🌱 I’m currently learning
    - Go
+   - Kubernetes
