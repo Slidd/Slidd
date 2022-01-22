@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 💬 About
-  - Software Engineering student at Glasgow Caledonian University
-  - Previous Software Engineering Intern at GE Digital focussing on DevOps
   - Interested in:
     - DevOps
     - Go
     - Automation
+    - Kubernetes
 - 🌱 I’m currently learning
    - Go
    - Kubernetes
